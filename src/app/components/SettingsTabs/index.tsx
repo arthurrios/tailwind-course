@@ -1,7 +1,7 @@
 'use client'
 
 import * as Tabs from '@radix-ui/react-tabs'
-import { TabItem } from './TabItem'
+import { TabItem } from '@/components/SettingsTabs/TabItem'
 import { useState } from 'react'
 
 export function SettingsTabs() {
