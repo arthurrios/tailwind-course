@@ -53,7 +53,7 @@ export default function Home() {
                 <Input.Control id="firstName" defaultValue="Arthur" />
               </Input.Root>
               <Input.Root>
-                <Input.Control defaultValue="Arthur" />
+                <Input.Control defaultValue="Rios" />
               </Input.Root>
             </div>
             <div />
@@ -190,7 +190,6 @@ export default function Home() {
               </div>
               <Textarea
                 id="bio"
-                className="min-h-[120px] w-full resize-y rounded-lg border border-zinc-300 px-3 py-2 shadow-sm"
                 defaultValue="I'm a Product Designer based in Melbourne, Australia. I specialize in UX/UI design, brand strategy, and Webflow development."
               />
             </div>
