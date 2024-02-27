@@ -32,8 +32,8 @@ This is a form interface created using Tailwind CSS. Developed at Rocketseat Aca
 1. Next.js
 2. Tailwind CSS
 3. Radix.ui
-4. Auto-animate
-5. Framer Motion
+4. Framer Motion
+
 
 ### Steps
 1. Clone this repository;
